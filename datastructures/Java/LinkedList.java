@@ -1,3 +1,7 @@
-class SinglyLinkedList {
+private class Node {
 	
+}
+
+class SinglyLinkedList {
+
 }
