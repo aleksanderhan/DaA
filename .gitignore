@@ -30,3 +30,6 @@
 
 # Python files
 *.pyc
+
+# Compiled Java files
+*.class
