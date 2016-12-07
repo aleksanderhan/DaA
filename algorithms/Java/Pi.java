@@ -129,7 +129,7 @@ private class Arctan {
 		addisjon(A, mente);
     }
     
-    //Får ikke til metoden...
+
     int[] divisjon(int[] A, int X) {
 		int[] B = new int[num];
 		return B;
